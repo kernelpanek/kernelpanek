@@ -1,6 +1,3 @@
-### Hi there 👋
-I have gone incognito since April because I have been working with organizations that don't use Github or they don't allow for personal accounts to be used with Github enterprise.
-
 <!--
 **kernelpanek/kernelpanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
